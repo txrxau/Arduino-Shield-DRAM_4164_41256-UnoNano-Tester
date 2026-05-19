@@ -6,5 +6,5 @@ PCB based on ISS DRAMArduino schematic.<br>
 Shield suitable for Arduino UNO or Arduino Nano.
 <br>
 <p>
-    <img src="Arduino-DRAM_4164_41256-UnoNano-Tester.png" width="220" height="240" />
+    <img src="Arduino-DRAM_4164_41256-UnoNano-Tester.png" width="330"/>
 </p>
