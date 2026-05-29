@@ -1,4 +1,5 @@
 //This code is based on the DRAMarduino project: https://forum.defence-force.org/viewtopic.php?t=1699
+//This code source is found at https://www.vogons.org/viewtopic.php?t=107370
 //Is for testing 4164 and 41246 memory chips.
 //It has been expanded with the help of Copilot and tested with an Arduino Uno R4 Wifi, but it should work with others, taking the pins into account. See the electronics side of the project.
 //I focused on this project because it's very simple, inexpensive, and just what I needed for the memory chips I wanted to test. 
