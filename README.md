@@ -11,7 +11,7 @@ Shield suitable for Arduino UNO or Arduino Nano.
 <br>
 Final Revision of my PCB design<br>
 All parts clearly marked on PCB silkscreen.<br>
-
+Test button is optional for use with an Arduino UNO, the Nano just uses reset button on the Arduino Nano.<br>
 I'd recommend the Extended code and view the serial output to see what faults are found if any.<br>
 Based on kinetix Extended DRAMArduino code<br>
 https://www.vogons.org/viewtopic.php?t=107370
